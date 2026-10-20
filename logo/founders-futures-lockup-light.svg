@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="66" viewBox="0 0 340 66" role="img" aria-labelledby="title">
+  <title id="title">Founders &amp; Futures</title>
+  <path fill="#F5F2FA" d="M6 15h25v7H13v10h15v7H13v20H6z"/>
+  <path fill="#C9A6FF" d="M33 7h25v7H40v10h15v7H40v20h-7z"/>
+  <text x="76" y="43" fill="#F5F2FA" font-family="Manrope, Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="-1.5">Founders <tspan fill="#C9A6FF">&amp;</tspan> Futures</text>
+</svg>
