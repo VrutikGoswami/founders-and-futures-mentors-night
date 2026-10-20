@@ -123,7 +123,7 @@ function Foreword() {
         <div className="foreword-portrait" data-reveal="portrait">
           <div className="portrait-arc portrait-arc-one" aria-hidden="true" />
           <div className="portrait-arc portrait-arc-two" aria-hidden="true" />
-          <img src={assetHref('images/muhsina.png')} alt="Muhsina, President of the Entrepreneurs Society" />
+          <img src={assetHref('images/muhsina-crisp.png')} alt="Muhsina, President of the Entrepreneurs Society" />
           <div className="portrait-caption"><span>Muhsina</span><span>Society president</span></div>
         </div>
       </div>

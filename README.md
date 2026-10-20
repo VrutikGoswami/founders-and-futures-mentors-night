@@ -17,7 +17,7 @@ The site is published at [Founders & Futures Mentors Night](https://vrutikgoswam
 
 ## Assets
 
-- **Muhsina’s photo:** the supplied portrait is at `public/images/muhsina.png` and appears in the foreword.
+- **Muhsina’s photo:** a sharpened, higher-resolution edit of the supplied portrait is at `public/images/muhsina-crisp.png` and appears in the foreword.
 - **Club logo:** the supplied ESAU shield remains in `logo/` and is also copied to `public/logo/esau-shield.jpeg` for the society credit in the hero.
 - **Event logo:** the minimalist Founders & Futures monogram and light/dark lockups are in `logo/`. The light lockup appears in the site header, the monogram is the favicon, and the ESAU shield remains beside the society credit in the hero.
 - **Optional approved mentor headshots:** the current `public/images/alex-cross.png`, `jibin-jeffrey.png`, and `baber-bhatti.png` are cleaned portraits made from the screenshots supplied for this build. Replace those files with approved original headshots if available, keeping the filenames.
