@@ -19,6 +19,7 @@ A [GitHub Pages mirror](https://vrutikgoswami.github.io/founders-and-futures-men
 
 ## Assets
 
+- **Event QR code:** `public/qr/founders-and-futures-qr.png` (1,600 px) and `public/qr/founders-and-futures-qr.svg` (vector) both encode the primary Vercel URL. The code uses a four-module quiet zone and high error correction for print use.
 - **Muhsina’s photo:** a sharpened, higher-resolution edit of the supplied portrait is at `public/images/muhsina-crisp.png` and appears in the foreword.
 - **Club logo:** the supplied ESAU shield remains in `logo/` and is also copied to `public/logo/esau-shield.jpeg` for the society credit in the hero.
 - **Event logo:** the minimalist Founders & Futures monogram and light/dark lockups are in `logo/`. The light lockup appears in the site header, the monogram is the favicon, and the ESAU shield remains beside the society credit in the hero.
