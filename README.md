@@ -13,7 +13,9 @@ Open the local address printed by Vite. To produce static files, run `npm run bu
 
 ## Live site
 
-The site is published at [Founders & Futures Mentors Night](https://vrutikgoswami.github.io/founders-and-futures-mentors-night/) through GitHub Pages from `main`'s `docs/` folder. To publish an update, run `npm run build:pages`, commit the updated `docs/` folder, then push `main`. This build sets Vite's base path to the repository name so mentor pages and local assets resolve on GitHub Pages.
+The primary site is [Founders & Futures Mentors Night on Vercel](https://founders-and-futures-mentors-night.vercel.app/). The Vercel project is connected to this GitHub repository and deploys the Vite build from `main` automatically when it is pushed.
+
+A [GitHub Pages mirror](https://vrutikgoswami.github.io/founders-and-futures-mentors-night/) is also published from `main`'s `docs/` folder. To update that mirror, run `npm run build:pages`, commit the updated `docs/` folder, then push `main`. This build sets Vite's base path to the repository name so mentor pages and local assets resolve on GitHub Pages.
 
 ## Assets
 
